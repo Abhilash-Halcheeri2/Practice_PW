@@ -1,0 +1,7 @@
+{
+    "loginSelectors":{
+        "logo": "[class='orangehrm-login-branding']",
+        "name":"[name='username']",
+        "password":"[name='password']"
+    }
+}
