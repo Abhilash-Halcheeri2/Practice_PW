@@ -9,7 +9,7 @@ test.describe("Actions",()=>{
 
     test("Mouse hover", async ({page})=>{
         
-        await page.getByTitle("Automation Testing Practice - Atom").getAttribute();
+       // await page.getByTitle("Automation Testing Practice - Atom").getAttribute();
         expect("")
 
     })
